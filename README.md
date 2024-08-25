@@ -31,58 +31,29 @@ Backend:
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></code>
 
-
 Frontend:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/html.svg"/></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></code>
-
-
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
 
 Database:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></code>
-
-
-
-Real-World Software Engineering Tools:
-
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /></code>
-
-
 
 Cloud & Deployment:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" /></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/69472009/117048318-1a38ec80-ad39-11eb-9f2c-73e0412ed81b.png" /></code>
-
-Architecture:
-
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> Microservices Architecture</code>  
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Monolithic Architecture</code>  
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Single Page Applications</code>  
-<code><img height="25" src="https://grpc.io/img/logos/grpc-icon-color.png" /> gRPC</code>  
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> Maven Multi-Module Project</code>
-
 
 Others:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 
 <br />
