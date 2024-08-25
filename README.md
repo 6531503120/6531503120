@@ -3,7 +3,7 @@
 <p><em>Studying Software Engineering 3nd Year at <a href="https://en.mfu.ac.th/home.html"> Mae Fah Luang University.
 </a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNwa2Rsc3pnem5jbXg2aHRjdWEzaWJuNTc2OTJqa2h5Y3BwcWQ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9PwWklO9tSELtIhBka/giphy.webp" width="50"> </em></p>
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZkOTExY2pzcWVhYTd6bWIyMHhlNHgyeHEweWR1djB0bDlmeDJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Ztytt2s2Cr7XyTI1z/giphy.webp" width="70"> A little more about me...  
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZkOTExY2pzcWVhYTd6bWIyMHhlNHgyeHEweWR1djB0bDlmeDJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Ztytt2s2Cr7XyTI1z/giphy.webp" width="50"> A little more about me...  
 
 <hr> <!-- Horizontal line -->
 
