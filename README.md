@@ -57,3 +57,13 @@ Others:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
+
+## My Github Stats
+
+[![All Stats](https://github-readme-stats.vercel.app/api?username=6531503120&show_icons=true&theme=dark)](https://github.com/6531503120)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6531503120&layout=compact&theme=dark)](https://github.com/6531503120)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=6531503120&" alt="6531503120" /></p>
+
+<br />
