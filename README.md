@@ -8,9 +8,9 @@
 <hr> <!-- Horizontal line -->
 
 - 👨🏽‍💻 I’m currently studying as a software engineering student
-- 💭 I want to be a Full-stack developer
+- 💭 I want to be a Software Tester
 - ❤ I love to playing some video game when i have a free times
-- 🌱 I’m currently learning on Next.js for Front-End Development & Go Backend Development
+- 🌱 I’m currently learning on Test Unit , Test Case and Debugging
 - 📫 How to reach me: 6531503120@lamduan.mfu.ac.th
 
 ## Languages and Tools
@@ -42,7 +42,6 @@ Frontend:
 Database:
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
 
